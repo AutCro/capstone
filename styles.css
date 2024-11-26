@@ -8,12 +8,39 @@ p{
 }
 
 li {
-    color: #b95eee;
+    color: #ad43ea;
+    font-style: normal;
+    font-weight:lighter;
+    font-size: 20px;
 }
 
 h2 {
-    color: #FF99C8;
-    font-style: oblique;
-    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#b765e6;
+    font-style: italic;
+    font-weight: bolder;
     font-size: 50px;
 }
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #d475d5;
+    line-height: 1;
+}
+
+ol li{
+    color: #ab4bdf;
+    line-height: 1;
+}
+
+    ul li {
+    color: rgb(68, 116, 189);
+    }
+
+  section a {
+        text-decoration: none;
+    }
+
+    section a:hover {
+        text-decoration: underline;
+    }
